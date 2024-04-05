@@ -78,7 +78,7 @@ body::after{
 
 .social .numbers{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   border-top: 1px solid #d0d0d0;
   width: 100%;
   padding: 10px 20px 20px;
